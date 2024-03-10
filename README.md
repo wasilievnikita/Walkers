@@ -1,6 +1,7 @@
 # Walker
 This App is created with idea of problem realization of searching people for walking together and also for receive knowledges in Swift.
 Данное приложение создано с идеей реализацией проблемы поиска людей для совместных прогулок, а также для приобретения знаний в Swift.
+
 ![Walker](https://github.com/wasilievnikita/Walkers/blob/main/ScreenShots/Walkers.gif)
 
 ## About App
